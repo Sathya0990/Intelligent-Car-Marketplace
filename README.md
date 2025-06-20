@@ -8,9 +8,7 @@ Multi-service platform demonstrating advanced full-stack development:
 
 
 
-React Frontend ←→ Node.js API ←→ Python ML Service
-↓              ↓              ↓
-Firebase       Payment Gateway   ML Models
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/dd65ab9a-1bcb-4a6e-998e-eac278688859" />
 
 
 
