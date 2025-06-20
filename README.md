@@ -22,10 +22,10 @@ Multi-service platform demonstrating advanced full-stack development:
 
 ## 🛠️ Technology Highlights
 
-**Frontend**: React + Redux + Firebase real-time integration
-**Payments**: Node.js API with production payment processing
-**ML**: Python Flask API serving RandomForest predictions
-**Database**: Firestore with real-time multi-user synchronization
+- **Frontend**: React + Redux + Firebase real-time integration
+- **Payments**: Node.js API with production payment processing
+- **ML**: Python Flask API serving RandomForest predictions
+- **Database**: Firestore with real-time multi-user synchronisation
 
 ## 📊 Development Metrics
 
@@ -36,4 +36,4 @@ Multi-service platform demonstrating advanced full-stack development:
 
 ## 🎓 Engineering Experience
 
-Comprehensive learning in production software development including technical debt management, service integration challenges, and architectural decision-making in complex systems.
+Comprehensive learning in production software development, including technical debt management, service integration challenges, and architectural decision-making in complex systems.
