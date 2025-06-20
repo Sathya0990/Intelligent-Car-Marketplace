@@ -36,9 +36,9 @@ Production-ready API server managing payment transactions and coordinating betwe
 
 ## 🔧 Integration
 
-**Frontend**: Accepts requests from React application, returns payment configurations
-**Payment Gateway**: Secure order processing with production payment systems
-**Security**: Environment-based configuration, input validation
+- **Frontend**: Accepts requests from React application, returns payment configurations
+- **Payment Gateway**: Secure order processing with production payment systems
+- **Security**: Environment-based configuration, input validation
 
 ## 🎓 Technical Achievement
 
